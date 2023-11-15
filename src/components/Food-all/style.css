@@ -1,0 +1,43 @@
+.productes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+    /* gap: 20px; */
+  }
+  
+  .productkeys {
+    text-align: center;
+    width: 200px;
+    height: 250px;
+  }
+  
+  .productimages {
+    width: 750px;
+    /* max-width: 750px; */
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .productprice {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .productdiscount {
+    font-size: 14px;
+    color: #888;
+  }
+  .productimages{
+    width: 130%;
+  }
+  .productimages{
+    width: 390px;
+  }
+  .productimageslarger{
+    position: relative;
+    left: 30px;
+  }
+
+  
